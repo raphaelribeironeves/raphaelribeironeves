@@ -15,7 +15,7 @@
   
 </div>
 
-### 🤖 Estudando no momento
+### 🤖 Currently studying
 
 <img 
     align="left" 
